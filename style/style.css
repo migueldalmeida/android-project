@@ -118,10 +118,6 @@ main img {
 }
 
 aside {
-    background-color: white;
-    margin: auto;
-    max-width: 1000px;
-    width: 100%;
     padding: 15px;
 
 }
@@ -146,11 +142,6 @@ aside h3 {
     height: 500px;
 }
 
-.more {
-    background-color: #96e6b9;
-    border-radius: 0px 0px 7px 7px;
-    padding: 10px;
-}
 .more {
     background-color: #96e6b9;
     border-radius: 0px 0px 7px 7px;
