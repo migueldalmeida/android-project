@@ -125,14 +125,15 @@ aside h3 {
     
 }
 
-.container iframe {
-    width: 100%;
-    max-width: 100%;
-    height: 500px;
+.container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 0 15px;
 }
 
 .container iframe {
     width: 100%;
+    max-width: 100%;
     height: 500px;
 }
 
