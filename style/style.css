@@ -16,7 +16,7 @@ body {
 }
 
 header {
-    position: relative;
+    width: 100%;
     background-image: linear-gradient(to bottom, #45c57f, #0f3f25);
 }
 
